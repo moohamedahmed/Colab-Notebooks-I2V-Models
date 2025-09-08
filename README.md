@@ -1,5 +1,4 @@
-# Google-Colab_Notebooks
-A Collection of Google Colab Notebooks for I2V Models
+# Google Colab Notebooks for I2V Models
 
 
 | Notebook | Info
